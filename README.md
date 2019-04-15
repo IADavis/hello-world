@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+
+I'm a student learning how to use GitHub
